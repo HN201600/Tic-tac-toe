@@ -3,10 +3,20 @@
     padding: 0;
 }
 
+
+
+#Dog { /*background video*/
+    height: 20px;
+    width: 20px;
+}
+/*#audioDog {
+    color: rgb(255, 161, 21);
+}*/
+#audioHN {
+    color: rgb(255, 161, 21);
+}*/
+
 body {
-    background-image: url("IMG_20240319_135516.jpg");
-    background-size: 370px 370px;
-    background-repeat: no-repeat;
     background-color: #548687;
     text-align: center;
 }
